@@ -17,24 +17,13 @@ on Earth can travel vast distances quickly and communicate with people and thing
 
 Second: Autonomous technologies will make the Working Class obsolete. 
 
-Third: Humans will begin colonizing space in earnest.
-
-Therefore, tying a person's citizenship to their geographic origin of birth is nonsense. The emerging realities compells 
-us to expand the concept of citizenship to the entire Earth Solar System or Earth System for short. 
-This is a key idea, to establish every person as a citizen of the Earth System with the freedom to live,
-work, and pursue all other freedoms independent of where they were born. This will help solve the problems
-created by the first and third emerging realities.
-
-The problem of autonomous technologies replacing the Working Class can be solved by converting the 
-Working Class into a New Investing Class which will require deep new ideas combined with 
-old ideas. To facilitate this, I introduce the Fundamental Rights of Open and 
-Decentralized Citizenship:
-
-1) The right to choose open and decentralized citizenship.
-2) The right to migrate throughout the Earth System.
+The Fundamental Rights of Open and Decentralized citizens are:
+1) The right to choose citizenship.
+2) The right to migrate and live anywhere in the Earth System.
 3) The right to Universal Property Rights.
 4) The right to Universal Basic Healthcare.
 5) The right to a Universal Basic Income.
+6) The right to vote by direct democracy.
 
 Universal property rights recognize two forms of property:
 1) Private
@@ -58,3 +47,36 @@ to handle local and regional matters. These small serverments will have limited 
 Residency and identity for voting and other matters involved in day to day life can be established and secured by the Open and Decentralized
 Citizenship blockchain to allow the two fold goals of transparency and privacy required in a free society. Ultimately, the fulfillment of
 this blockchain will ensure every citizen prosperity and ensure no centralized authority or person can impose itsself on others.
+
+Universal Basic Income (UBI) in a Highly Advanced Technological Civilization (HATC) refers to an amout sufficient to provide a comfortable 
+lifestyle in such a civilization. Different amounts for a UBI have been debated by theorist such as $1000/month(US Dollar). However, 
+that amount would be equivilent to living in poverty in the developed world; therefore, it would be far below a comfortable 
+lifestyle. To clarify a fair UBI, the term Standard Universal Income (SUBI) refers to the amount of an UBI for one person/year. 
+A SUBI = $12000 US Dollars is too low. A fair amount for a HTAC would be equivilent to the approximate per person GDP of the United
+States. Therefore, for the near future of ten to twenty years, A SUBI = $60000 US Dollar is recommended. 
+
+Since the conversion of public property to private property for space colonization and enterprise has already been established
+along with the concept that all current property off of Earth is public property, the conversion of property and creation of the 
+first ten to twenty years of SUBI for each citizen can be linked by transferring an amount of land on Mars and the Earth Moon to 
+private ownership. Each citizen will own that land as private owners and they can sale or trade to obtain a value equal to 10 years of 
+SUBI. This is one way to create income and wealth for citizens. 
+
+Another way going forward to create income for citizens is through selling mining rights for asteroids. 
+
+Whatever the case, only a small portion of the Earth Moon, Mars and its moons, and the local asteroid belt may be leased, sold, or , otherwise,
+converted to private property over the next 10-30 years to ensure future citizens have equal access to opportunities, etc. In fact, the Earth System 
+can be divided into zones:
+
+1) Earth Zone: Earth and its Moon and local space.
+2) Inner Zone: The Sun, Mercury, and Venus and local space.
+3) Mars Zone: Mars and its moons and the asteroid belt and local space.
+4) Jupiter Zone: Jupiter and its moons and local space.
+5) Outer Zone: Saturn, Neptune, Uranus and their moons and local space. 
+6) Perimeter Zone: All planets, planetoids, asteroids, and local space. 
+7) Ethereal Zone: Comets, asteroids, etc. that pass through any zone but are not contained within the zone constantly.
+
+Between now and 2050-2070, most colonization and enterprise will likely be concentrated in the Earth Zone and Mars Zone. That should 
+inform the conversion of public to private property. The real question is how long will it take to develop space based colonies with 
+current technology and rate of exponential improvement. Space colonization along with the enterprise and industry it creates will fund 
+the remaining progress of the Earth economy so that all citizens are part of a HATC. The risks and benefits of space colonization will drive 
+the development of space assets and provide dreamers, explorers, seeks, and scientist with fertile places to expand human civilization.
