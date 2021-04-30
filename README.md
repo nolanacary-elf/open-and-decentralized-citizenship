@@ -79,4 +79,9 @@ Between now and 2050-2070, most colonization and enterprise will likely be conce
 inform the conversion of public to private property. The real question is how long will it take to develop space based colonies with 
 current technology and rate of exponential improvement. Space colonization along with the enterprise and industry it creates will fund 
 the remaining progress of the Earth economy so that all citizens are part of a HATC. The risks and benefits of space colonization will drive 
-the development of space assets and provide dreamers, explorers, seeks, and scientist with fertile places to expand human civilization.
+the development of space assets and provide dreamers, explorers, seekers, and scientist with fertile places to expand human civilization.
+
+As this new citizenship structure is put in place, the Working Class must be converted to a New Investing Class to fully realise a future of wealth 
+and income equality. Citizens will use their SUBI, cryptocurrency, and autonomous technologies to create fortunes and the ability to live a
+cultured and hyper mobile lifestyle anywhere on Earth and beyond if they so choose. The ideas of central authorities, autocrats, and governments will 
+melt away.
