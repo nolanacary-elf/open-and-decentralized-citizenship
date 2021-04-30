@@ -3,7 +3,7 @@
 A political project based on blockchain concepts and technologies to solve the problems of nation-states,
 international-states, tribalism, poltical factionism, and other archaic forms of government. A core idea is that political 
 concepts evolve over time, and an honest assessment of the current times requires a new politcal model 
-that will meet the needs of an highly advanced technological civilization which humanity will
+that will meet the needs of a highly advanced technological civilization which humanity will
 soon be.
 
 The most logical way to create a new politcal model is using an open source model that encourages 
