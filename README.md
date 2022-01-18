@@ -40,7 +40,7 @@ of some parts of Mars.
 The conversion of part of Mars and all other celestial bodies as well as Earth Oceans to private property must benefit all citizens,
 and serve as a means to implement the Fundamental Rights of Open and Decentralized Citizens. Since a means of creating infrastructure 
 and systems to implement those rights will be required, a Serverment in place of a government will act as a decentralized 
-aotonomous organization which will recieve a portion of funds created from the conversion of public property to private 
+autonomous organization which will recieve a portion of funds created from the conversion of public property to private 
 property. All adult citizens will be allowed to vote on all matters of the Serverment. Additional small serverments can be created by vote
 to handle local and regional matters. These small serverments will have limited scope and cannot exceed the Serverment.
 
@@ -51,7 +51,8 @@ this blockchain will ensure every citizen prosperity and ensure no centralized a
 Universal Basic Income (UBI) in a Highly Advanced Technological Civilization (HATC) refers to an amout sufficient to provide a comfortable 
 lifestyle in such a civilization. Different amounts for a UBI have been debated by theorist such as $1000/month(US Dollar). However, 
 that amount would be equivilent to living in poverty in the developed world; therefore, it would be far below a comfortable 
-lifestyle. To clarify a fair UBI, the term Standard Universal Income (SUBI) refers to the amount of an UBI for one person/year. 
+lifestyle. To clarify a fair UBI, the term Standard Universal Basic
+ Income (SUBI) refers to the amount of an UBI for one person/year. 
 A SUBI = $12000 US Dollars is too low. A fair amount for a HTAC would be equivilent to the approximate per person GDP of the United
 States. Therefore, for the near future of ten to twenty years, A SUBI = $60000 US Dollar is recommended. 
 
