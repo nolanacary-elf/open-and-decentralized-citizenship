@@ -86,3 +86,5 @@ As this new citizenship structure is put in place, the Working Class must be con
 and income equality. Citizens will use their SUBI, cryptocurrency, and autonomous technologies to create fortunes and the ability to live a
 cultured and hyper mobile lifestyle anywhere on Earth and beyond if they so choose. The ideas of central authorities, autocrats, and governments will 
 melt away.
+
+Code_of_Conduct.md
