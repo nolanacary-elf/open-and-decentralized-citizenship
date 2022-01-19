@@ -87,4 +87,3 @@ and income equality. Citizens will use their SUBI, cryptocurrency, and autonomou
 cultured and hyper mobile lifestyle anywhere on Earth and beyond if they so choose. The ideas of central authorities, autocrats, and governments will 
 melt away.
 
-Code_of_Conduct.md
