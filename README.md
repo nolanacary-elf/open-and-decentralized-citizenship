@@ -1,23 +1,22 @@
 # open-and-decentralized-citizenship
 
-A political project based on blockchain concepts and technologies to solve the problems of nation-states,
-international-states, tribalism, poltical factionism, and other archaic forms of government. A core idea is that political 
-concepts evolve over time, and an honest assessment of the current times requires a new politcal model 
+Political concepts evolve over time, and an honest assessment of the current times requires a new politcal model 
 that will meet the needs of a highly advanced technological civilization which humanity will
 soon be.
 
 The most logical way to create a new politcal model is using an open source model that encourages 
 everyone to participate and benefit. I don't have all the answers, but I have a few ideas. I hope 
-you can contribute to this project.
+you can contribute to this project. Just fork the repository to begin.
 
+## The Future Taking Shape
 Over the next few decades a few major things will occur that will make the current poltical concepts obsolete. 
 
 First: Improving on current patterns; mobility, urbanization, and IOT(internet of things) will ensure everyone 
-on Earth can travel vast distances quickly and communicate with people and things over vast distances instantly. 
+on Earth can travel vast distances quickly just as we can already communicate with people and things over vast distances instantly. 
 
 Second: Autonomous technologies will make the Working Class obsolete. 
 
-The Fundamental Rights of Open and Decentralized citizens are:
+## The Fundamental Rights of Open and Decentralized citizens are:
 1) The right to choose citizenship.
 2) The right to migrate and live anywhere in the Earth System.
 3) The right to Universal Property Rights.
@@ -25,6 +24,7 @@ The Fundamental Rights of Open and Decentralized citizens are:
 5) The right to a Universal Basic Income.
 6) The right to vote by direct democracy.
 
+## Forward Looking Ideas
 Universal property rights recognize two forms of property:
 1) Private
 2) Public
