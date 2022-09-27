@@ -21,7 +21,7 @@ Second: Autonomous technologies will make the Working Class obsolete.
 2) The right to migrate and live anywhere in the Earth System.
 3) The right to Universal Property Rights.
 4) The right to Universal Basic Healthcare.
-5) The right to a Universal Basic Income.
+5) The right to a Universal Basic Income. https://docs.google.com/document/d/1PHnbD6ACRM9krfWOZEqclIW3k8bvImPZON6zhZVMBu4/edit?usp=sharing
 6) The right to vote by direct democracy.
 
 ## Forward Looking Ideas
@@ -55,6 +55,8 @@ lifestyle. To clarify a fair UBI, the term Standard Universal Basic
  Income (SUBI) refers to the amount of an UBI for one person/year. 
 A SUBI = $12000 US Dollars is too low. A fair amount for a HTAC would be equivilent to the approximate per person GDP of the United
 States. Therefore, for the near future of ten to twenty years, A SUBI = $60000 US Dollar is recommended. 
+
+This is just one idea for a universal basic income. See the link to SUBI Token concept here for another: https://docs.google.com/document/d/1PHnbD6ACRM9krfWOZEqclIW3k8bvImPZON6zhZVMBu4/edit?usp=sharing
 
 Since the conversion of public property to private property for space colonization and enterprise has already been established
 along with the concept that all current property off of Earth is public property, the conversion of property and creation of the 
