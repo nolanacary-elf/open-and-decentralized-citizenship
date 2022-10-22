@@ -21,7 +21,9 @@ Second: Autonomous technologies will make the Working Class obsolete.
 2) The right to migrate and live anywhere in the Earth System.
 3) The right to Universal Property Rights.
 4) The right to Universal Basic Healthcare.
-5) The right to a Universal Basic Income. https://docs.google.com/document/d/1PHnbD6ACRM9krfWOZEqclIW3k8bvImPZON6zhZVMBu4/edit?usp=sharing
+5) The right to a Universal Basic Income. 
+   See SUBI Token Concept:
+   https://docs.google.com/document/d/1PHnbD6ACRM9krfWOZEqclIW3k8bvImPZON6zhZVMBu4/edit?usp=sharing
 6) The right to vote by direct democracy.
 
 ## Forward Looking Ideas
